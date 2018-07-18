@@ -19,6 +19,6 @@ weight = 30
 ## Courses taught
 
 * 2013-2014 - Metagenomics of marine microbes, Marine Ecological and Evolutionary Genomics, Roscoff (4 h practical session)
-* 2014 - ECODIM workshop (South America post graduate course), University of Concepcion, Chile (3 weeks) - January 2014
+* 2014 - [ECODIM](http://ecodim.imo-chile.cl/) workshop (South America post graduate course), University of Concepcion, Chile (3 weeks) - January 2014 
 * 2014 - International Phytoplankton course, Macaé, Brasil (2 weeks) -  December 2014
 

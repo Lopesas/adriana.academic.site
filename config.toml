@@ -48,7 +48,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -66,7 +66,7 @@ enableGitInfo = false
   avatar = "Adriana_square.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "adriana.lopes@ntu.edu.sg"
   address = "Asian School of the Environment, Nanyang Technological University, 50 Nanyang Avenue, Block N2-01C-65, Singapore 639798"
-  phone = "+65 xxxx"
+  phone = "+65 69047 585"
   skype = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -264,7 +264,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Research"
   url = "#research"
-  weight = 1.8
+  weight = 2.5
 
 [[menu.main]]
   name = "Projects"
@@ -284,14 +284,14 @@ enableGitInfo = false
 
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Teaching-new"
   url = "#teaching"
   weight = 4
 
-#[[menu.main]]
-#  name = "Supervision"
-#  url = "supervision"
-#  weight = 5
+[[menu.main]]
+  name = "Supervision-new"
+  url = "supervision"
+  weight = 5
 
 [[menu.main]]
   name = "CV"

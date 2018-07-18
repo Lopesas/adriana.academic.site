@@ -15,7 +15,8 @@ weight = 40
 
 +++
 
-## Post docs
+### Post docs
+* Daniel Vaulot
 
 ## PhD Students
 

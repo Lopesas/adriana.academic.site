@@ -26,21 +26,12 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "macumba.jpg"
+image = "DSCF1403.jpg"
 caption = "Phytoplankton"
 
 +++
 
 Marine microorganisms: Cultivation methods for improving their biotechnological applications.
 
-Macumba was a european FP7 collaborative project
-
-* Duration:  August 2012 – July 2016 (48 months)
-* Consortium:  22 partners from 11 countries
-* Coordinator:  Stichting Koninklijk Netherlands Instituut voor Zeeonderzoek (NIOZ), The Netherlands
-
-Marine microorganisms form an almost untapped resource of biotechnological potential. However, its use is hindered by the low success rate of isolation of novel microorganisms and often by poor growth efficiency. Hence, the vast majority of marine microorganisms has not been cultivated and is often considered as unculturable. MaCuMBA aims at improving the isolation rate and growth efficiency of marine microorganisms from conventional and extreme habitats, by applying innovative methods, and the use of automated high throughput procedures.
-
-The approaches include the co-cultivation of interdependent microorganisms, as well as gradient cultures and other methods mimicking the natural environment, and the exploitation of cell-to-cell communication. Signalling molecules produced by microorganisms may be necessary for stimulating growth of the same or other species, or may prevent their growth. Signalling molecules also represent an interesting and marketable product.
-
+Macumba was a European collaborative project (4 years) involving 11 different countries. Microorganisms, including those found in marine environments, form an almost untapped resource of biotechnological potential. However, its use is hindered by the low success rate of isolation of novel microorganisms and often by poor growth efficiency. The vast majority of marine microorganisms has not been cultivated and is often considered as unculturable. MaCuMBA aimed improving the isolation rate and growth efficiency of marine microorganisms from conventional and extreme habitats, by applying innovative methods, and the use of automated high throughput procedures. The approaches included the co-cultivation of interdependent microorganisms as well as gradient cultures and other methods mimicking the natural environment, and the exploitation of cell-to-cell communication. 
 * [MACUMBA web site](http://www.macumbaproject.eu/)

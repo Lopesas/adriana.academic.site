@@ -13,8 +13,8 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "chloropico.png"
-caption = "Sci Rep 2016"
+image = "carbom_network.png"
+
 +++
 
 Pdf files are available on [Research Gate](https://www.researchgate.net/profile/Adriana_Lopes_Dos_Santos)

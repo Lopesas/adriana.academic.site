@@ -47,12 +47,12 @@ enableGitInfo = false
 
 [params]
   # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, 'custom', or `1950s`.
+  color_theme = "custom"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Your details.
   name = "Adriana Lopes dos Santos"
@@ -238,16 +238,17 @@ enableGitInfo = false
     link = "https://www.researchgate.net/profile/Adriana_Lopes_Dos_Santos"
 
   [[params.social]]
-    icon = "mendeley"
+    icon = "orcid"
     icon_pack = "ai"
-    link = "https://www.mendeley.com/profiles/adriana-lopes-dos-santos/"
+    link = "https://orcid.org/0000-0002-0736-4937"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/Lopesas"
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com.sg/citations?hl=en&user=3j72ztsAAAAJ&view_op=list_works&gmla=AJsN-F4VRlhs9_3KDoY2mGsNjGYWxJv_lVGsSKOH3xkwoxbMPflely0Mo8TuyAekE_zFZCrnwwuuirjDAqJR1GasKeCbhHY2yQ"
 
-
+    
+    
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -264,17 +265,17 @@ enableGitInfo = false
 [[menu.main]]
   name = "Research"
   url = "#research"
-  weight = 2.5
+  weight = 2
 
 [[menu.main]]
-  name = "Projects"
+  name = "Projects & Collaborations"
   url = "#projects"
-  weight = 2
+  weight = 3
   
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 4
 
 
 # [[menu.main]]
@@ -282,25 +283,19 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-
 [[menu.main]]
-  name = "Teaching-new"
+  name = "Teaching"
   url = "#teaching"
-  weight = 4
-
-[[menu.main]]
-  name = "Supervision-new"
-  url = "supervision"
   weight = 5
-
-[[menu.main]]
-  name = "CV"
-  url = "/files/adriana_cv.pdf"
-  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
+  weight = 6
+  
+[[menu.main]]
+  name = "Positions available"
+  url = "#positions"
   weight = 7
 
 # Taxonomies.

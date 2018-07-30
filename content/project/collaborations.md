@@ -27,7 +27,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "group photo.jpg"
-caption = "CARBOM"
+caption = "Antarctica"
 
 +++
 

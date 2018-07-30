@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 weight = 4
 
 # Project title.
-title = "Around the world"
+title = "Around the world - International collaborative projects"
 
 # Project summary to display on homepage.
 summary = "International collaborative projects."
@@ -30,6 +30,8 @@ image = "group photo.jpg"
 caption = "CARBOM"
 
 +++
+
+Two heads think better than one...
 
 * 2017-2019 -  Catalyst (New Zealand) with [Andres Gutierrez]( https://www.researchgate.net/profile/Andres_Gutierrez22), [Fabrice Not](https://www.researchgate.net/profile/Fabrice_Not) and [Ian Probert]( https://www.researchgate.net/profile/Ian_Probert)
 * 2017-2019 & MicrAntar (ECCOS-Chili) with [Nicole Trefault](https://www.researchgate.net/profile/Nicole_Trefault) and Rodrigo De la Iglesia

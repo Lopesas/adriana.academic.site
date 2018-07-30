@@ -265,39 +265,43 @@ enableGitInfo = false
 [[menu.main]]
   name = "Research"
   url = "#research"
-  weight = 2
+  weight = 4
 
 [[menu.main]]
   name = "Projects & Collaborations"
   url = "#projects"
-  weight = 3
+  weight = 5
   
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 4
-
-
-# [[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+  weight = 6
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 9
   
 [[menu.main]]
   name = "Positions available"
   url = "#positions"
-  weight = 7
-
+  weight = 8
+  
+[[menu.main]]
+  name = "Phytoplankton"
+  url = "#Intro"
+  weight = 3
+  
+[[menu.main]]
+  name = "Academic Life"
+  url = "#academic"
+  weight = 2
+  
 # Taxonomies.
 [taxonomies]
   tag = "tags"

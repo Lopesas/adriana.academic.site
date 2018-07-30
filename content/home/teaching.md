@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = "Recent teaching activity"
 
 # Order that this section will appear in.
-weight = 30
+weight = 8
 
 +++
 

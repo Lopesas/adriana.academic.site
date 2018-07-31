@@ -8,7 +8,6 @@ baseurl = "/"
 
 # Title of your site
 title = "Adriana Lopes dos Santos"
-
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
@@ -268,6 +267,7 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
+  parent = "Research"
   name = "Projects & Collaborations"
   url = "#projects"
   weight = 5
@@ -293,6 +293,7 @@ enableGitInfo = false
   weight = 8
   
 [[menu.main]]
+  parent = "Research"
   name = "Phytoplankton"
   url = "#Intro"
   weight = 3
@@ -301,6 +302,7 @@ enableGitInfo = false
   name = "Academic Life"
   url = "#academic"
   weight = 2
+
   
 # Taxonomies.
 [taxonomies]

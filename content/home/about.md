@@ -20,8 +20,7 @@ weight = 1
   year = 2010
  
 +++
-
-I am marine microbial ecologist interested in understanding the structure of marine eukaryotic phytoplankton communities and how environmental factors shape their diversity. They are the core of globally important cycles such as carbon and oxygen and understand the factors that control and maintain their diversity and the structure of their communities, is fundamental to understand our planet. My work combined traditional culture isolation and laboratory studies along with cutting-edge DNA sequencing approaches to elucidate the patterns of marine eukaryotic phytoplankton communities across a wide range of environments. 
+I am marine microbial ecologist interested in understanding the structure of marine eukaryotic phytoplankton communities and how environmental factors shape their diversity. They are the core of globally important cycles such as carbon and oxygen and understand the factors that control and maintain their diversity and the structure of their communities, is fundamental to understand our planet. My work combines traditional culture isolation and laboratory studies along with cutting-edge DNA sequencing approaches to elucidate the patterns of marine eukaryotic phytoplankton communities across a wide range of marine environments .  
 
   
   

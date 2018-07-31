@@ -52,7 +52,7 @@ The student will be provided with a graduate research assistantship that include
  
 **Contact**
 
-If you are interested, please send inquiries to adriana.lopes@ntu.edu.sg. Include your CV and a statement of research experience and interests. We can talk and work on your application. 
+If you are interested, please send inquiries to my [email](mailto:a driana.lopes@ntu.edu.sg). Include your CV and a statement of research experience and interests. We can talk and work on your application. 
 
 ## Undergrad projects
  

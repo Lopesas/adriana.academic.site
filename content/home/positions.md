@@ -56,6 +56,6 @@ If you are interested, please send inquiries to adriana.lopes@ntu.edu.sg. Includ
 
 ## Undergrad projects
  
-Thinking about to do a lab internship or which project to conduct during last year project? Join us!Please contact adriana.lopes@ntu.edu.sg to learn more about projects available.  
+Thinking about to do a lab internship or which project to conduct during last year project? Join us! Please contact by [email](mailto:a driana.lopes@ntu.edu.sg) to learn more about projects available.  
 
 

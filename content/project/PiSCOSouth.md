@@ -26,8 +26,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Seawifs_global_biosphere_small.jpg"
-caption = "Oceanic Primary Production"
+image = "Chattam Island bloom- 1.jpg"
+
 
 +++
 

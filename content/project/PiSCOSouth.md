@@ -35,6 +35,6 @@ Picophytoplankton Study of Carbon rates in Oligotrophic waters of the South Paci
 
 Who is involved in PiSCOSouth?
 [Andres Gutierrez]( https://www.researchgate.net/profile/Andres_Gutierrez22), [Dominique Marie]( https://www.researchgate.net/profile/Dominique_Marie), [Daniel Vaulot]( http://daniel-vaulot.fr/), 
-[Catherine Gerikas]( https://www.researchgate.net/profile/Catherine_Ribeiro), [Nicole Trefault](https://www.researchgate.net/profile/Nicole_Trefault), [Osvaldo Ulloa]( https://www.researchgate.net/profile/Osvaldo_Ulloa), [Peter Van Dasson]( https://www.researchgate.net/profile/Peter_Von_Dassow2), Antonia Cristi Martinez and [Susana Rodriguez]( https://www.researchgate.net/profile/Susana_Rodriguez_Maconi)
+[Catherine Gerikas]( https://www.researchgate.net/profile/Catherine_Ribeiro), [Nicole Trefault](https://www.researchgate.net/profile/Nicole_Trefault), [Osvaldo Ulloa]( https://www.researchgate.net/profile/Osvaldo_Ulloa), [Peter Van Dassow]( https://www.researchgate.net/profile/Peter_Von_Dassow2), Antonia Cristi Martinez and [Susana Rodriguez]( https://www.researchgate.net/profile/Susana_Rodriguez_Maconi)
 
 

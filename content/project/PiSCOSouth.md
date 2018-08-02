@@ -12,7 +12,7 @@ title = "PiSCOSouth"
 summary = "Picophytoplankton Study of Carbon rates in Oligotrophic waters of the South Pacific Ocean"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Seawifs_global_biosphere.jpg"
+image_preview = "ChattamIslandbloom-1.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -26,8 +26,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Chattam Island bloom- 1.jpg"
-
+image = "ChattamIslandbloom-1.jpg"
 
 +++
 

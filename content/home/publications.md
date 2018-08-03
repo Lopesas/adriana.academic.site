@@ -12,7 +12,7 @@ subtitle = "including submitted papers"
 weight = 7
 
 # Number of publications to list.
-count = 10
+count = 11
 
 # List format.
 #   0 = Simple
@@ -33,7 +33,7 @@ list_format = 3
 publication_type = "2"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+exclude_selected = true
 +++
 
 Pdf files are available on [Research Gate](https://www.researchgate.net/profile/Adriana_Lopes_Dos_Santos)

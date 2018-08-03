@@ -23,6 +23,6 @@ url_source = ""
 math = true
 highlight = true
 [header]
-image = "chloropico_paper.jpg"
+image = "chloropico_paper.png"
 caption = "Chloropicophyceae"
 +++

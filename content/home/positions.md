@@ -15,11 +15,13 @@ weight = 9
 +++
 
 ## Ph.D. student in Earth Science with focus in Marine Ecology
+
+[pdf link](\files\Ph.D_EarthScience_ASE.pdf)
  
 We are looking for a curious and driven Ph.D. student to join our team! The student will be at the forefront of a project research that aims to unveil the dynamics and contribution of small (pico) oceanic eukaryotic phytoplankton to the carbon cycle. We will combine classical primary productivity experiments with phytoplankton population sorting and metabarcoding (metaB) of marker gene to access group specific contribution to carbon fixation.  In order track the variation of phytoplankton communities’ abundances and their metabolism in situ, we will perform high-resolution sampling through their natural diel-cycle in different water masses and apply meta transcriptomic (metaT) data analysis to examine the pathways that lead to nutrient acquisition and growth of key picoplanktonic species.  
 The project will involve field and laboratory studies. 
 
-Lab experience and/or computing skills will be considered favorably.  Geeks with love for microbes are welcome! 
+Lab experience and/or computing skills will be considered favorably.  Geeks with love for microbes are welcome!
 
 
 **Program**

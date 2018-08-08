@@ -264,7 +264,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Research"
   url = "#research"
-  weight = 4
+  weight = 6
 
 [[menu.main]]
   parent = "Research"
@@ -273,24 +273,30 @@ enableGitInfo = false
   weight = 5
   
 [[menu.main]]
+  parent = "Research"
+  name = "Diversity and oceanic distribution of marine phytoplankton"
+  url = "#research"
+  weight = 4
+  
+[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 7
+  weight = 8
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 9
+  weight = 10
   
 [[menu.main]]
   name = "Positions available"
   url = "#positions"
-  weight = 8
+  weight = 9
   
 [[menu.main]]
   parent = "Research"
